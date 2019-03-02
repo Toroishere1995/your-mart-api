@@ -43,13 +43,13 @@
 
 		<property name="hibernate.hbm2ddl.auto">update</property>
 		
-		<mapping class="com.nagarro.apiyourmart.entity.SellerInformation" />
-		<mapping class="com.nagarro.apiyourmart.entity.ProductInformation" />
-		<mapping class="com.nagarro.apiyourmart.entity.ProductImagesInformation" />
-		<mapping class="com.nagarro.apiyourmart.entity.LoginCredentials" />
-		<mapping class="com.nagarro.apiyourmart.entity.CategoryInformation" />
-<!-- 		<mapping class="com.nagarro.flightsearchapi.entity.CurrencyRates" /> -->
-		<!-- <mapping class="com.nagarro.training.imageutility.dto.UserImages"></mapping> -->
+		<mapping class="com.learning.apiyourmart.entity.SellerInformation" />
+		<mapping class="com.learning.apiyourmart.entity.ProductInformation" />
+		<mapping class="com.learning.apiyourmart.entity.ProductImagesInformation" />
+		<mapping class="com.learning.apiyourmart.entity.LoginCredentials" />
+		<mapping class="com.learning.apiyourmart.entity.CategoryInformation" />
+<!-- 		<mapping class="com.learning.flightsearchapi.entity.CurrencyRates" /> -->
+		<!-- <mapping class="com.learning.training.imageutility.dto.UserImages"></mapping> -->
 
 
 	</session-factory>
